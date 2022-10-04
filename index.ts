@@ -26,10 +26,10 @@ function initMap(): void {
 
   // Define the LatLng coordinates for an inner path.
   const innerCoords1 = [
-    { lat: -33.364, lng: 154.207 },
-    { lat: -34.364, lng: 154.207 },
-    { lat: -34.364, lng: 155.207 },
-    { lat: -33.364, lng: 155.207 },
+    { lat: 37.135095, lng: -80.548839 },
+    { lat: 37.134996, lng: -80.548652 },
+    { lat: 37.135462, lng: -80.548169},
+    { lat: 37.135617, lng: -80.548465 },
   ];
 
   // Define the LatLng coordinates for another inner path.
